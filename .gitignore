@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.python_history
+.emulator_console_auth_token
+.DS_Store
+
+# Your real dataset stays local; the synthetic sample is committed
+data/aadhaar.csv
